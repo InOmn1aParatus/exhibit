@@ -1,4 +1,3 @@
-require 'rspec'
 require './lib/exhibit'
 require './lib/patron'
 
@@ -16,7 +15,7 @@ RSpec.describe Exhibit do
     end
   end
 
-  context 'methods' do
+  # context 'methods' do
     
-  end
+  # end
 end
